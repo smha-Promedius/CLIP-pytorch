@@ -1,0 +1,6 @@
+transformers
+timm
+opencv-python
+pandas
+albumentations
+matplotlib
